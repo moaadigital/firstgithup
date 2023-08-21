@@ -18,7 +18,7 @@ void main() {
         child: Column(
           children: [
             Text(
-              'Faajii Solution',
+              'Mo\'aa Digital Solution',
               style: TextStyle(color: Colors.indigo),
             )
           ],

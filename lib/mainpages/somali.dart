@@ -471,7 +471,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       )),
                                 ],
                               ),
-                              Text('Faajii Solution',
+                              Text('Mo\'aa Digital Solution',
                                   style: TextStyle(
                                       color: Colors.indigo, fontSize: 12)),
                               Text(
